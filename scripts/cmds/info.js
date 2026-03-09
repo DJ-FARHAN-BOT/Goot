@@ -35,7 +35,7 @@ module.exports = {
 
     // GIF / VIDEO URL
     const images = [
-      "https://files.catbox.moe/oaszt4.gif"
+      "https://files.catbox.moe/x0s7dt.mp4"
     ];
     const image = images[Math.floor(Math.random() * images.length)];
 
@@ -64,14 +64,14 @@ module.exports = {
 ⭓ 🗓️ 𝗗𝗮𝘁𝗲        : 『 ${date} 』
 ⭓ ⏰ 𝗧𝗶𝗺𝗲        : 『 ${time} 』
 
-⭓ 👑 𝗢𝘄𝗻𝗲𝗿      : 『 -Rꫝғɪɪ 6x9 』
-⭓ 🎂 𝗔𝗴𝗲        : 『 17+ 』
+⭓ 👑 𝗢𝘄𝗻𝗲𝗿      : 『 𝐌𝐑.𝐁𝐎𝐒𝐒 𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍 』
+⭓ 🎂 𝗔𝗴𝗲        : 『 19+ 』
 ⭓ ❤️ 𝗦𝘁𝗮𝘁𝘂𝘀     : 『 ${status} 』
-⭓ 📱 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽  : 『 01815843985 』
-⭓ 🌐 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸  : 『 id=61585437908438 』
+⭓ 📱 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽  : 『 01934640061 』
+⭓ 🌐 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸  : 『 https://www.facebook.com/DEVIL.FARHAN.420 』
 
 ───────────────
-🔧 Fix by -Rꫝғɪɪ 6x9 
+🔧 Fix by -𝐌𝐑.𝐁𝐎𝐒𝐒 𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍 
 ╚══════════════════════════╝
 `,
       attachment: await global.utils.getStreamFromURL(image)
